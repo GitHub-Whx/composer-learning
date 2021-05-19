@@ -14,7 +14,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "whx\\utils": "src/"
+            "whx\\utils\\": "src/"
         }
     }
 }
