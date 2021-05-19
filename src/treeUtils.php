@@ -159,7 +159,7 @@ class Tree{
 
 
     /**
-     * [searchTreeSon 获取某个节点所有子类【包含本身-非树状结构】]]
+     * [searchTreeSon 获取某个节点所有子类【包含本身-树状结构】]]
      * @Author   Whx
      * @DateTime 2020-11-17
      * @param    [type]     $tree         [原始树结构数据]
