@@ -6,7 +6,8 @@
     "authors": [
         {
             "name": "Whx",
-            "email": "1990whx@gmail.com"
+            "email": "1990whx@gmail.com",
+            "role": "Developer"
         }
     ],
     "minimum-stability": "dev",
