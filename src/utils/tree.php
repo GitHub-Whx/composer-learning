@@ -1,5 +1,5 @@
 <?php
-namespace whx\utils;
+namespace utils;
 
 
 class Tree{
