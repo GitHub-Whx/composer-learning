@@ -1,0 +1,19 @@
+{
+    "name": "whx/treeutils",
+    "description": "This is a tree structure utils",
+    "type": "lib",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Whx",
+            "email": "1990whx@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "whx\\": "src/"
+        }
+    }
+}
